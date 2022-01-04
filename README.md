@@ -1,2 +1,2 @@
 # mytrial
-this is my first trial in git
+this is my first trial in git!
